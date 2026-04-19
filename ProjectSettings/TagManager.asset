@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Enemy
+  - Puppet
+  - Projectile
+  - Invisible
   layers:
   - Default
   - TransparentFX

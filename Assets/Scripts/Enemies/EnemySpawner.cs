@@ -7,18 +7,20 @@ public class EnemySpawner : MonoBehaviour
     private GameObject enemyPrefab;
 
     [SerializeField]
-    private float enemyInterval = 3.5f;
+    private float minEnemyInterval = 1f;
+    [SerializeField]
+    private float maxEnemyInterval = 6f;
 
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(spawnEnemy(enemyInterval, enemyPrefab));
+        StartCoroutine(spawnEnemy(Random.Range(minEnemyInterval, maxEnemyInterval), enemyPrefab));
     }
 
     private IEnumerator spawnEnemy(float interval, GameObject enemy)
     {
         yield return new WaitForSeconds(interval);
-        GameObject newEnemy = Instantiate(enemy, new Vector3(Random.Range(-5f, 5), Random.Range(-6f, 6f), 0), Quaternion.identity);
+        GameObject newEnemy = Instantiate(enemy, new Vector3(Random.Range(transform.position.x - 1f, transform.position.x + 1), Random.Range(transform.position.y - 2f, transform.position.y + 2f), 0), Quaternion.identity);
         StartCoroutine(spawnEnemy(interval, enemy));
     }
 }

@@ -1,0 +1,565 @@
+fileFormatVersion: 2
+guid: 1ebc4ba663852a1478647df0e2ef0f2e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5934985865701277818
+    second: Ice projectile-Sheet_0
+  - first:
+      213: 3795350476500362151
+    second: Ice projectile-Sheet_1
+  - first:
+      213: 6544429573763210182
+    second: Ice projectile-Sheet_2
+  - first:
+      213: -8339121748934042764
+    second: Ice projectile-Sheet_3
+  - first:
+      213: 4563864905135183227
+    second: Ice projectile-Sheet_4
+  - first:
+      213: 5464719533710047817
+    second: Ice projectile-Sheet_5
+  - first:
+      213: 7108421119748588487
+    second: Ice projectile-Sheet_6
+  - first:
+      213: -3362601648565592582
+    second: Ice projectile-Sheet_7
+  - first:
+      213: 2663480049714674184
+    second: Ice projectile-Sheet_8
+  - first:
+      213: 4037756921962110678
+    second: Ice projectile-Sheet_9
+  - first:
+      213: -1660390044282119286
+    second: Ice projectile-Sheet_10
+  - first:
+      213: -1960349344285347735
+    second: Ice projectile-Sheet_11
+  - first:
+      213: 3347181925629364396
+    second: Ice projectile-Sheet_12
+  - first:
+      213: -6309199550877205237
+    second: Ice projectile-Sheet_13
+  - first:
+      213: -2287152756577965464
+    second: Ice projectile-Sheet_14
+  - first:
+      213: -851756707191572183
+    second: Ice projectile-Sheet_15
+  - first:
+      213: 1686708146750460451
+    second: Ice projectile-Sheet_16
+  - first:
+      213: -4917566199116865018
+    second: Ice projectile-Sheet_17
+  - first:
+      213: -8852752059939074173
+    second: Ice projectile-Sheet_18
+  - first:
+      213: 8059085883357929293
+    second: Ice projectile-Sheet_19
+  - first:
+      213: -7249570476210835737
+    second: Ice projectile-Sheet_20
+  - first:
+      213: -1687889972611621906
+    second: Ice projectile-Sheet_21
+  - first:
+      213: 6113389432255246559
+    second: Ice projectile-Sheet_22
+  - first:
+      213: -4094277930349698603
+    second: Ice projectile-Sheet_23
+  - first:
+      213: 4507055947143406951
+    second: Ice projectile-Sheet_24
+  - first:
+      213: 2225828156544259398
+    second: Ice projectile-Sheet_25
+  - first:
+      213: 5637273860921714331
+    second: Ice projectile-Sheet_26
+  - first:
+      213: -4217863915653194830
+    second: Ice projectile-Sheet_27
+  - first:
+      213: 7085402979914602103
+    second: Ice projectile-Sheet_28
+  - first:
+      213: -6884373071182581403
+    second: Ice projectile-Sheet_29
+  - first:
+      213: -2027385593740248102
+    second: Ice projectile-Sheet_30
+  - first:
+      213: 8398277300774912839
+    second: Ice projectile-Sheet_31
+  - first:
+      213: 175449815829104687
+    second: Ice projectile-Sheet_32
+  - first:
+      213: -2609490802784353145
+    second: Ice projectile-Sheet_33
+  - first:
+      213: -1889320468729015418
+    second: Ice projectile-Sheet_34
+  - first:
+      213: 7831073141893498660
+    second: Ice projectile-Sheet_35
+  - first:
+      213: -4850846871334292844
+    second: Ice projectile-Sheet_36
+  - first:
+      213: -7182459510578961890
+    second: Ice projectile-Sheet_37
+  - first:
+      213: 3607647532711895662
+    second: Ice projectile-Sheet_38
+  - first:
+      213: -5258063693871666110
+    second: Ice projectile-Sheet_39
+  - first:
+      213: 5107820128103543980
+    second: Ice projectile-Sheet_40
+  - first:
+      213: -4379866061899696594
+    second: Ice projectile-Sheet_41
+  - first:
+      213: -873201016574623860
+    second: Ice projectile-Sheet_42
+  - first:
+      213: 7687078092493119260
+    second: Ice projectile-Sheet_43
+  - first:
+      213: 6684077745095674019
+    second: Ice projectile-Sheet_44
+  - first:
+      213: 3085927734265118768
+    second: Ice projectile-Sheet_45
+  - first:
+      213: 357879885406014197
+    second: Ice projectile-Sheet_46
+  - first:
+      213: -2153405214501816937
+    second: Ice projectile-Sheet_47
+  - first:
+      213: 5642278512061938024
+    second: Ice projectile-Sheet_48
+  - first:
+      213: -242912650097172151
+    second: Ice projectile-Sheet_49
+  - first:
+      213: -8673603134301533815
+    second: Ice projectile-Sheet_50
+  - first:
+      213: -3355368367028906446
+    second: Ice projectile-Sheet_51
+  - first:
+      213: 7434776980471361017
+    second: Ice projectile-Sheet_52
+  - first:
+      213: -687605635319558779
+    second: Ice projectile-Sheet_53
+  - first:
+      213: -4588481557977552186
+    second: Ice projectile-Sheet_54
+  - first:
+      213: -8272049281303657636
+    second: Ice projectile-Sheet_55
+  - first:
+      213: -4336593904179887852
+    second: Ice projectile-Sheet_56
+  - first:
+      213: 3864058461035620634
+    second: Ice projectile-Sheet_57
+  - first:
+      213: -3122414786228615309
+    second: Ice projectile-Sheet_58
+  - first:
+      213: 1936852792517670721
+    second: Ice projectile-Sheet_59
+  - first:
+      213: 5478653927506741839
+    second: Ice projectile-Sheet_60
+  - first:
+      213: 1811467581519761146
+    second: Ice projectile-Sheet_61
+  - first:
+      213: -3062025364112072713
+    second: Ice projectile-Sheet_62
+  - first:
+      213: -4979908687498496907
+    second: Ice projectile-Sheet_63
+  - first:
+      213: -527056508636028
+    second: Ice projectile-Sheet_64
+  - first:
+      213: -1368663759583640894
+    second: Ice projectile-Sheet_65
+  - first:
+      213: 2903547080265771747
+    second: Ice projectile-Sheet_66
+  - first:
+      213: 4906841598321888764
+    second: Ice projectile-Sheet_67
+  - first:
+      213: -3807815817500416781
+    second: Ice projectile-Sheet_68
+  - first:
+      213: 3066182791955717430
+    second: Ice projectile-Sheet_69
+  - first:
+      213: 2959309155672225034
+    second: Ice projectile-Sheet_70
+  - first:
+      213: -5562878766726857049
+    second: Ice projectile-Sheet_71
+  - first:
+      213: 4864679609850011386
+    second: Ice projectile-Sheet_72
+  - first:
+      213: -8013741299798215227
+    second: Ice projectile-Sheet_73
+  - first:
+      213: 8858092876775671771
+    second: Ice projectile-Sheet_74
+  - first:
+      213: 1006147967952190790
+    second: Ice projectile-Sheet_75
+  - first:
+      213: -1336405857903158821
+    second: Ice projectile-Sheet_76
+  - first:
+      213: -7650726185609782738
+    second: Ice projectile-Sheet_77
+  - first:
+      213: -5605120662952537084
+    second: Ice projectile-Sheet_78
+  - first:
+      213: 5159414774080378241
+    second: Ice projectile-Sheet_79
+  - first:
+      213: 6133470473301730878
+    second: Ice projectile-Sheet_80
+  - first:
+      213: -5934694996889092872
+    second: Ice projectile-Sheet_81
+  - first:
+      213: 5469490031304998331
+    second: Ice projectile-Sheet_82
+  - first:
+      213: 5635911621705430624
+    second: Ice projectile-Sheet_83
+  - first:
+      213: -6632756326686656158
+    second: Ice projectile-Sheet_84
+  - first:
+      213: 1548082367462025084
+    second: Ice projectile-Sheet_85
+  - first:
+      213: -3400189531980229410
+    second: Ice projectile-Sheet_86
+  - first:
+      213: -4215928522925816470
+    second: Ice projectile-Sheet_87
+  - first:
+      213: -4165262876330098220
+    second: Ice projectile-Sheet_88
+  - first:
+      213: -926188545679791830
+    second: Ice projectile-Sheet_89
+  - first:
+      213: 1815334755508332127
+    second: Ice projectile-Sheet_90
+  - first:
+      213: 5604931345322780456
+    second: Ice projectile-Sheet_91
+  - first:
+      213: 3171844743182279513
+    second: Ice projectile-Sheet_92
+  - first:
+      213: 1543822353268828311
+    second: Ice projectile-Sheet_93
+  - first:
+      213: -6304204739534106300
+    second: Ice projectile-Sheet_94
+  - first:
+      213: 9108998887839710117
+    second: Ice projectile-Sheet_95
+  - first:
+      213: 458489352565400151
+    second: Ice projectile-Sheet_96
+  - first:
+      213: -8263135225558043043
+    second: Ice projectile-Sheet_97
+  - first:
+      213: -1764820084692072425
+    second: Ice projectile-Sheet_98
+  - first:
+      213: -466135313165436766
+    second: Ice projectile-Sheet_99
+  - first:
+      213: 7181507477808979312
+    second: Ice projectile-Sheet_100
+  - first:
+      213: -914128808909773641
+    second: Ice projectile-Sheet_101
+  - first:
+      213: 7164997194534637330
+    second: Ice projectile-Sheet_102
+  - first:
+      213: 8514580361228635809
+    second: Ice projectile-Sheet_103
+  - first:
+      213: -4217532236200491438
+    second: Ice projectile-Sheet_104
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ice projectile-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 487
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f39efccc1b2ada0800000000000000
+      internalID: -5934985865701277818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice projectile-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 487
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3e9e5562bcba430800000000000000
+      internalID: 3795350476500362151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice projectile-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 487
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb97b1060c72da50800000000000000
+      internalID: 6544429573763210182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ice projectile-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 0
+        width: 487
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b5d00b3fc754c80800000000000000
+      internalID: -8339121748934042764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: beea93e2f51da8a4081c12988f258fe5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":487.0,"y":520.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Ice projectile-Sheet_0: -5934985865701277818
+      Ice projectile-Sheet_1: 3795350476500362151
+      Ice projectile-Sheet_2: 6544429573763210182
+      Ice projectile-Sheet_3: -8339121748934042764
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

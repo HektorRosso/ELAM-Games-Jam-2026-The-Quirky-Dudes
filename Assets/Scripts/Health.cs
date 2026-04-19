@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Health : MonoBehaviour
 {
@@ -64,5 +65,7 @@ public class Health : MonoBehaviour
     {
         Debug.Log("I am Dead!");
         Destroy(gameObject);
+
+        if (CompareTag("Player")) SceneManager.LoadScene("Prototype Level");
     }
 }

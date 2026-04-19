@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 581bbccc6e928bb48b9b5c0dddb701bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3545893656177698930
+    second: Enemy Spawner-Sheet_0
+  - first:
+      213: 1589601162312701756
+    second: Enemy Spawner-Sheet_1
+  - first:
+      213: -4959326056387602657
+    second: Enemy Spawner-Sheet_2
+  - first:
+      213: -8328278581057606548
+    second: Enemy Spawner-Sheet_3
+  - first:
+      213: -7560922522480778655
+    second: Enemy Spawner-Sheet_4
+  - first:
+      213: -8707031310405146203
+    second: Enemy Spawner-Sheet_5
+  - first:
+      213: -2705449841120461319
+    second: Enemy Spawner-Sheet_6
+  - first:
+      213: 1271830290094089092
+    second: Enemy Spawner-Sheet_7
+  - first:
+      213: 7991436450998270464
+    second: Enemy Spawner-Sheet_8
+  - first:
+      213: 8022094945228828416
+    second: Enemy Spawner-Sheet_9
+  - first:
+      213: -7323565389682053109
+    second: Enemy Spawner-Sheet_10
+  - first:
+      213: 1855037615028185001
+    second: Enemy Spawner-Sheet_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 49
+        width: 952
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27868cb4e7b853130800000000000000
+      internalID: 3545893656177698930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 49
+        width: 952
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375236c5d56f0610800000000000000
+      internalID: 1589601162312701756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 49
+        width: 952
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f179da33a3fec2bb0800000000000000
+      internalID: -4959326056387602657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 49
+        width: 952
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c219171c20c6c80800000000000000
+      internalID: -8328278581057606548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5449
+        y: 49
+        width: 952
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16268497605321790800000000000000
+      internalID: -7560922522480778655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6799
+        y: 49
+        width: 952
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9e81fa7296a2780800000000000000
+      internalID: -8707031310405146203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 8149
+        y: 49
+        width: 952
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdb06e14bf447ad0800000000000000
+      internalID: -2705449841120461319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 9499
+        y: 49
+        width: 952
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e3af09e276a110800000000000000
+      internalID: 1271830290094089092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 10849
+        y: 49
+        width: 952
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a3cda9c1947ee60800000000000000
+      internalID: 7991436450998270464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 12199
+        y: 49
+        width: 952
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f22dc89d4345f60800000000000000
+      internalID: 8022094945228828416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 13549
+        y: 49
+        width: 952
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00f7aa74187d5a90800000000000000
+      internalID: -7323565389682053109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy Spawner-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 14899
+        y: 49
+        width: 952
+        height: 502
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a72eb8e1ea6eb910800000000000000
+      internalID: 1855037615028185001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Enemy Spawner-Sheet_0: 3545893656177698930
+      Enemy Spawner-Sheet_1: 1589601162312701756
+      Enemy Spawner-Sheet_10: -7323565389682053109
+      Enemy Spawner-Sheet_11: 1855037615028185001
+      Enemy Spawner-Sheet_2: -4959326056387602657
+      Enemy Spawner-Sheet_3: -8328278581057606548
+      Enemy Spawner-Sheet_4: -7560922522480778655
+      Enemy Spawner-Sheet_5: -8707031310405146203
+      Enemy Spawner-Sheet_6: -2705449841120461319
+      Enemy Spawner-Sheet_7: 1271830290094089092
+      Enemy Spawner-Sheet_8: 7991436450998270464
+      Enemy Spawner-Sheet_9: 8022094945228828416
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
